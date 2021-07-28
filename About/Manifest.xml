@@ -10,6 +10,6 @@
         <li>DreamersDreams</li>
   </suggests>
   <showCrossPromotions>true</showCrossPromotions>
-  <manifestUri>https://github.com/QarsoonMeel/AbilitiesCooldownRimWorld/blob/development/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/QarsoonMeel/DreamersDreams/releases</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/QarsoonMeel/AbilitiesCooldownRimWorld/development/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/QarsoonMeel/AbilitiesCooldownRimWorld/releases/latest</downloadUri>
 </Manifest>
