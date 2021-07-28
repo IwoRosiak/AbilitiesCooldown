@@ -6,6 +6,21 @@
     <li>1.3</li>
   </supportedVersions>
 	<packageId>QarsoonMeel.AbilitiesCooldownRimWorld</packageId>
-	<description>
+	<description>Thank you for downloading my mod! You are amazing!
+To report any issues please refer to the mod page which I check every minute : )
+
+&lt;size=22&gt;Notes:&lt;/size&gt;
+- Doesn't require a new save.
+
+&lt;size=22&gt;Features:&lt;/size&gt;
+- A message will pop-up each time your moral/spiritual leader can cast his/her abilities again.
 	</description>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
 </ModMetaData>

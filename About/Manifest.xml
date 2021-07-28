@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-  <version>0.1</version>
-  <!--<manifestUri>https://raw.githubusercontent.com/QarsoonMeel/DreamersDreams/main/About/Manifest.xml</manifestUri>-->
-  <downloadUri>https://github.com/QarsoonMeel/AbilitiesCooldownRimWorld</downloadUri>
+  <identifier>IdeologyAbilitiesCooldownNotifications</identifier>
+  <version>1.0</version>
+  <dependencies>
+    <li>Ideology</li>
+    <li>Harmony</li>
+  </dependencies>
+  <suggests>
+        <li>DreamersDreams</li>
+  </suggests>
+  <showCrossPromotions>true</showCrossPromotions>
+  <manifestUri>https://github.com/QarsoonMeel/AbilitiesCooldownRimWorld/blob/development/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/QarsoonMeel/DreamersDreams/releases</downloadUri>
 </Manifest>
